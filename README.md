@@ -1,73 +1,54 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Oscar - Portfolio
 
-# Project Name
+Responsive site from Mobile to desktop.
+2nd Figma template.
+- Used Flexbox for the header and the 1st page.
+- Combile Grid and Flexbox to build the work area.
+- Used media queries to make the site responsive.
+- Used animations a transitions to make the site more friendly to the user.
+- Used JavaScript to enable/disable the mobile menu from the navbar
 
-> Description the project.
+## Built With:
 
+- HTML.
+- CSS.
+- JavaScript
+- Check the code with Linters tests:
+  *Webhint*
+  *Stylelint*
+  *Lighthouse*
+  *esLint*
 
-## Built With
+## Live Demo
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo](https://zkr024.github.io/Portfolio/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+To get a local copy up and running follow these simple example steps:
+- Go to the folder where you want to store the project, and clone the repository:
+- SSH: git@github.com:zkr024/Portfolio.git
 
 ## Authors
 
-👤 **Author1**
+👤 Oscar Bermudez
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/zkr024)
+- Twitter: [@twitterhandle](https://twitter.com/zkr024)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/oscar-bermudez-07908222a)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
 
 ## 📝 License
-
 This project is [MIT](./MIT.md) licensed.
