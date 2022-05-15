@@ -20,11 +20,11 @@ This is an example of how you may give instructions on setting up your project l
 
 To get a local copy up and running follow these simple example steps.
 
-![screenshot](./image1.png)
-![screenshot](./image2.png)
-![screenshot](./image3.png)
-![screenshot](./image4.png)
-![screenshot](./image5.png)
+![screenshot](./Image1.png)
+![screenshot](./Image2.png)
+![screenshot](./Image3.png)
+![screenshot](./Image4.png)
+![screenshot](./Image5.png)
 
 👤 **Have Samuel**
 
