@@ -1,54 +1,58 @@
-# Oscar - Portfolio
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Responsive site from Mobile to desktop.
-2nd Figma template.
-- Used Flexbox for the header and the 1st page.
-- Combile Grid and Flexbox to build the work area.
-- Used media queries to make the site responsive.
-- Used animations a transitions to make the site more friendly to the user.
-- Used JavaScript to enable/disable the mobile menu from the navbar
+# Portifolio
 
-## Built With:
+> Understand how to parse a Figma design to create a UI.
+> Use Flexbox to place elements in the page.
+> Use CSS Grid to place elements in the page.
+> Build a personal portfolio site.
 
-- HTML.
-- CSS.
-- JavaScript
-- Check the code with Linters tests:
-  *Webhint*
-  *Stylelint*
-  *Lighthouse*
-  *esLint*
+## Built With
 
-## Live Demo
+- HTML & CSS
+- Git & Github- Flexbox & CSS Grid
 
-[Live Demo](https://zkr024.github.io/Portfolio/)
+## Live Demo (if available)
 
-## Getting Started
+[Live Demo Link](https://have-samuel.github.io/mobile-ver/)
 
-To get a local copy up and running follow these simple example steps:
-- Go to the folder where you want to store the project, and clone the repository:
-- SSH: git@github.com:zkr024/Portfolio.git
+This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+
+To get a local copy up and running follow these simple example steps.
+
+[images](images/A1.png)
+[images](images/A3.png)
+[images](images/A4.png)
+[images](images/A5.png)
+[images](images/A6.png)
+
+## Prerequisites
+
+## Setup
+
+## Install
+
+## Usage
+
+## Run tests
+
+## Deployment
 
 ## Authors
 
-👤 Oscar Bermudez
+👤 **Have Samuel**
 
-- GitHub: [@githubhandle](https://github.com/zkr024)
-- Twitter: [@twitterhandle](https://twitter.com/zkr024)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/oscar-bermudez-07908222a)
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [@githubhandle](https://github.com/Have-Samuel)
+- Twitter: [@twitterhandle](https://twitter.com/home)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/feed)
 
 ## Show your support
-Give a ⭐️ if you like this project!
+⭐️
 
 ## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+
+- Thanks to Microverse
 
 ## 📝 License
+
 This project is [MIT](./MIT.md) licensed.
