@@ -8,7 +8,7 @@
   color: #fff;
   font-size: 25px;
   background: #1c1a19 url(images/Group.png) 100% 114% no-repeat;
-  /* transition-property: background; */
+  transition-property: background;
   transition-duration: 800ms;
 }
 
@@ -329,7 +329,6 @@
   display: flex;
   list-style: none;
   height: 40px;
-  width: 297px;
   margin: 0 54px 20px 24px;
   justify-content: space-between;
   align-items: center;
@@ -547,7 +546,7 @@
 }
 
 .second_card .languages {
-  margin: 12px 75px 0 16px;
+  margin: 12px 45px 0 16px;
   width: 236px;
 }
 
@@ -734,6 +733,24 @@
     transition-duration: 250ms;
   }
 
+  .popup_desktop h3 {
+    display: block;
+    font-family: 'Crete Round', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 44px;
+    color: #172b4d;
+  }
+
+  .popup .languages {
+    margin: 0 0 16px 24px;
+  }
+
+  .popup_info p {
+    margin: 0;
+  }
+
   .second_card:hover h3,
   .second_card:hover h4,
   .second_card:hover p,
@@ -753,20 +770,6 @@
     margin: 24px 38px 12px 24px;
   }
 
-  .popup_desktop h3 {
-    display: block;
-    font-family: 'Crete Round', serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    line-height: 44px;
-    color: #172b4d;
-  }
-
-  .popup .languages {
-    margin: 0 0 16px 24px;
-  }
-
   .popup_details {
     display: flex;
     padding: 24px;
@@ -784,10 +787,6 @@
     padding: 0;
     flex-basis: 336px;
     margin-left: 25px;
-  }
-
-  .popup_info p {
-    margin: 0;
   }
 
   .popup_info .access_info {
