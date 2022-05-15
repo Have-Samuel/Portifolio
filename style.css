@@ -638,10 +638,10 @@
   transition-duration: 250ms;
 }
 
-/* .img img {
+.img img {
   max-width: 100%;
   max-height: 100%;
-} */
+}
 
 .popup p {
   font-family: 'Inter', sans-serif;

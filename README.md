@@ -16,6 +16,7 @@
 ## Live Demo (if available)
 
 [Live Demo Link](https://portfolio256.netlify.app/)
+[Live Demo Link 2](https://have-samuel.github.io/Portifolio/)
 
 This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
