@@ -10,27 +10,22 @@
 ## Built With
 
 - HTML & CSS
-- Git & Github- Flexbox & CSS Grid
+- Git & Github
+- Flexbox & CSS Grid
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://have-samuel.github.io/mobile-ver/)
+[Live Demo Link](https://portfolio256.netlify.app/)
 
 This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
 
 To get a local copy up and running follow these simple example steps.
 
-![screenshot](./Image1.png)
-![screenshot](./Image2.png)
-![screenshot](./Image3.png)
-![screenshot](./Image4.png)
-![screenshot](./Image5.png)
-
 👤 **Have Samuel**
 
 - GitHub: [@githubhandle](https://github.com/Have-Samuel)
-- Twitter: [@twitterhandle](https://twitter.com/home)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/feed)
+- Twitter: [@twitterhandle](https://twitter.com/samhave1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/have-samuel/)
 
 ## Show your support
 ⭐️
