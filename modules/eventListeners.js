@@ -1,10 +1,11 @@
 // Mobile menu //
 import {
+  // eslint-disable-next-line max-len
   menu, closeButton, closeMenu, closeMenuTwo, closeMenuThree, mobileForm, burgerMenu, emailForm, smTxt, work, popupWindow,
-} from './variables.js';
+} from './variables';
 
-import createPopUp from './createPopUp.js';
-import cardOne from './popUpArray.js';
+import createPopUp from './createPopUp';
+import cardOne from './popUpArray';
 
 export const openMenu = menu.addEventListener('click', () => {
   burgerMenu.classList.toggle('menu_active');

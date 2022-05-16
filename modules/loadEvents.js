@@ -1,4 +1,5 @@
-import * as myEvents from './eventListeners.js';
+/* eslint-disable no-unused-expressions */
+import * as myEvents from './eventListeners';
 
 const loadEvents = () => {
   myEvents.openMenu;

@@ -1,4 +1,4 @@
-import { work } from './variables.js';
+import { work } from './variables';
 
 function createPopUp(cardNumber) {
   work.innerHTML += `
